@@ -1,0 +1,1 @@
+This folder is REQUIRED by MjSip, don't remove it even if it is empty
